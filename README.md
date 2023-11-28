@@ -49,9 +49,9 @@ SNP Class Materials
    - Hyperparameter Tuning
 
 10. Word2Vec On News Headlines (ipynb)
-   - EDA
-   - Theory
-   - Model
+      - EDA
+      - Theory
+      - Model
 
 NOTE: HTML FILES HAVE TO BE DOWNLOADED AND OPENED IN CHROME SEPARATELY TO SEE THE WHOLE NOTEBOOK.
 
