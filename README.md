@@ -59,6 +59,16 @@ NOTE: HTML FILES HAVE TO BE DOWNLOADED AND OPENED IN CHROME SEPARATELY TO SEE TH
 
 ## Theory
 
+NLP Lecture 2
+- Tokenization, Stemming, Lemmatization, POS Tagging, Conditional Random Fields, WordNet, Word Sense Disambiguation, Query Expansion
 
+NLP Lecture 3
+- WordNet, Psycholinguistical Theory, Lexical Matrix, Sense Disambiguation, Sense Tagging, WSD, Query Expansion
+
+SVD
+- Introduction, Math, Measures, Calculations, Lowest-k Approximations, Example, Observation & Inference, Conclusion
+
+Topic Modelling
+- Introduction, LDA, Gibbs Sampling
 
 -------------------------------------------------------------------------
